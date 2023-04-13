@@ -1,0 +1,39 @@
+body {
+  background: #cdcdcd;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+  padding: 30px;
+}
+
+.rasArde {
+  color: #3e666c;
+  font-size: 30px;
+}
+
+.rasRosi {
+  color: #3e666c;
+  font-size: 30px;
+}
+
+.rasVine {
+  color: #3e666c;
+  font-size: 30px;
+}
+
+.rosii {
+  color: blue;
+  list-style: none;
+}
+
+.ardei {
+  color: blueviolet;
+  list-style: none;
+}
+
+.vinete {
+  color: brown;
+  list-style: none;
+}

@@ -1,0 +1,51 @@
+body {
+  background: linear-gradient(to top, #9890e3 0%, #b1f4cf 100%);
+}
+
+h1 {
+  color: #313131;
+  text-align: center;
+}
+
+.poza7 {
+  display: block;
+  margin: 0 auto;
+}
+
+.poza1 {
+  display: block;
+  margin: 0 auto;
+  size: 250px;
+}
+
+.contact {
+  color: purple;
+  font: bold;
+}
+
+form {
+  position: relative;
+  left: 470px;
+}
+
+.comanda {
+  width: 350px;
+  height: 150px;
+  background-color: #eaeaea;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  color: white;
+  background: blue;
+  border-radius: 4px;
+}
+
+button:hover {
+  display: block;
+  margin: 0 auto;
+  color: blue;
+  background: white;
+  border-radius: 4px;
+}
