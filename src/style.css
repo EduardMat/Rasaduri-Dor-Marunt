@@ -36,4 +36,34 @@ h1 {
 .vinete {
   color: brown;
   list-style: none;
+  
 }
+
+
+
+.poza1 {
+  display: block;
+  margin: 0 auto;
+}
+
+
+.poza3 {
+  position: relative;
+  top:-500px;
+  left:400px;
+  size: 250px;}
+
+  .oferta{
+    color: #4DC274;
+  }
+  .poza5 {
+  position: relative;
+  top:-90px;
+  left:110px;
+  size: 250px;}
+
+  .footer{
+    color: blue;
+    text-decoration: double;
+    top:-500px;
+  }
